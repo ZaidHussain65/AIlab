@@ -1,5 +1,5 @@
-a=int(input("Enter jug A capacity"))
-b=int(input("Enter jug B capacity"))
+a=int(input("Enter the capacity of jug A"))
+b=int(input("Enter  the capacity of jug B"))
 ai=int(input("Initially water in jug A"))
 bi=int(input("Initially water in jug B"))
 af=int(input("final state of jug A"))
