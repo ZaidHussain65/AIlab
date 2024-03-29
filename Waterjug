@@ -1,7 +1,7 @@
 a=int(input("Enter the capacity of jug A :"))
 b=int(input("Enter the capacity of jug B :"))
-ai=int(input("Initially water in jug A"))
-bi=int(input("Initially water in jug B"))
+ai=int(input("Initially water in jug A :"))
+bi=int(input("Initially water in jug B :"))
 af=int(input("final state of jug A:"))
 bf=int(input("final state of jug B:"))
 if a<ai or b<bi or a<af or b<bf:
